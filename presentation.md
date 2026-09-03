@@ -222,7 +222,7 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
 
 <div class="two-balanced-columns">
 <ul>
-<li>macht seit 12 Jahren Cosplay</li>
+<li>macht seit 13 Jahren Cosplay</li>
 <li> Socials:
 <ul class="social-list">
 <li>
