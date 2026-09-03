@@ -251,6 +251,13 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
 ## Consent
 
 <!--Schneller Walk-trough und verlinken auf Ressourcen-->
+<!--
+"Consent"-Spiel -> Einfache Handgelenksfesselung Somerville Bowline Double Column
+https://www.theduchy.com/tutorials/somerville-bowline-double-column/#core-technique
+
++ Über die Bühne führen & dranlassen (?)
+-->
+* <a href="https://www.theduchy.com/tutorials/somerville-bowline-double-column/#core-technique">www.theduchy.com/tutorials/somerville-bowline-double-column/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/duchy_somerville-bowline.png" alt="QR Code" class="qrcode"></a> 
 
 ---
 
