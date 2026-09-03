@@ -375,7 +375,11 @@ Vetting: Evaluieren von Bondage-"Partnern"
 * Play? (=> Welche Art von Spiel?)
 * Fotos? (Dauer?)
 * Performance? (Dauer???)
-
+<!--
+Zum Beispiel
+. auf einer Bühne
+- auf einem Event
+-->
 ---
 
 ##### Absprache > Checklists
