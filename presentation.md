@@ -476,6 +476,18 @@ Show and Tell
 
 ---
 
+#### Sicherheitsausrüstung > Ergänzungen aus 2025
+
+<!--
+Wir hatten letztes Jahr den gleichen Vortrag gehalten und da auch durch das Publikum dazugelernt
+[Die Liste ist leider nicht vollständig, aufgrund von ADHS]
+-->
+* Sprachassistent/Alexa um einen Notruf abzusetzen
+* Handy
+
+
+---
+
 ## Kurze Einführung von Begriffen
 
 * restriktive vs dekorative Bondage
