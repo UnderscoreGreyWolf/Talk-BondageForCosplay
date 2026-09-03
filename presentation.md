@@ -243,6 +243,11 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
 ### Seil ist cool und vielseitig
 
 * Von Selbstverteidigung über Kink bis hin zum Alltag hilft es überall!
+* Fokus heute: Consent, Verhandlung und Ästhetik
+
+<!--
+Nachfrage ans Publikum: "Hat denn jemand Seil als Teil seines Cosplays?"
+-->
 
 <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/hojo_cover.jpg" alt="Cover eines Buchs mit einem roten Seil zum Thema 'Hojo Jutsu: Haya Nawa' mit dem Untertitel 'Das schnelle Seil in Budo und Bujutsu' von Norbert Mahl & Walter Baier" height="50%">
 
