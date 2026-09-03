@@ -445,7 +445,7 @@ Notfälle können sowohl Bunny als auch Rigger treffen!
 -->
 * Was passiert, wenn der Kreislauf der gefesselten Person versagt?
 <!--
-Dextrose/Zucker und Flüssigkeit zum aufpeppeln
+Dextrose/Zucker und Flüssigkeit zum Aufpeppeln
 Wie wirkt sich das auf die Fesselung aus?
 -->
 <!--
