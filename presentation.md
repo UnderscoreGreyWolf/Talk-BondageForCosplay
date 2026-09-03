@@ -604,6 +604,9 @@ Seilführung hinter dem Rücken ist bei Self-Bondage tricky!
 Platz für Fragen aus dem Publikum
 -->
 
+* Die Präsentation findet ihr auf
+     <a href="https://github.com/UnderscoreGreyWolf/Talk-BondageForCosplay">github.com/UnderscoreGreyWolf/Talk-BondageForCosplay<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/gh_talk.png" alt="QR Code" class="qrcode"></a>
+
 ---
 
 ## Show (and Tell?)
