@@ -148,8 +148,13 @@ style: |
 ---
 <!-- markdownlint-disable MD004 -->
 
-# Bondage for Cosplay
-
+# Bondage for Cosplay (v0.2)
+<!--
+Für die die letztes Jahr schonmal da waren 
+[Frage ans Publikum -> Show of hands]:
+Das meiste wiederholt sich, aber ihr könnt das wie die jährliche UVV Schulung betrachten.
+Und vielleicht haben wir ein paar Kleinigkeiten geändert
+-->
 Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen als QR-Codes, die dürft ihr gerne mit den Handys abscannen und wir versuchen auch ein PDF der Präsentation zur Verfügung zu stellen, aber wir bitten euch keine Fotos von uns zu machen!
 
 ---
