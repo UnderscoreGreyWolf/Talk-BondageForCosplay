@@ -588,7 +588,12 @@ Platz für Fragen aus dem Publikum
 ## Show (and Tell?)
 <!--
 Improvisation oder Interaktiver Workshop
+
+https://www.theduchy.com/creating-a-scene/chair-tie-folding/
+
 -->
+
+* <a href="https://www.theduchy.com/creating-a-scene/chair-tie-folding/">www.theduchy.com/creating-a-scene/chair-tie-folding/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/duchy_chair-tie-folding.png" alt="QR Code" class="qrcode"></a> 
 
 ---
 
