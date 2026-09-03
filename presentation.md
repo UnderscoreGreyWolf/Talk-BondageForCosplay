@@ -177,7 +177,7 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
         <div class="social-title twitter">Twitter:</div>
             <div class="social-name">@German_GreyWolf</div>
         <a href="https://twitter.com/german_greywolf">
-                <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/twitter_gw.png" class="social-qr qrcode" alt="Link to Twitter"/>
+                <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/twitter_gw.png" class="social-qr qrcode" alt="Link to Twitter"/>
         </a>
     </address>
     </li>
@@ -186,7 +186,7 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
         <div class="social-title">BlueSky:</div>
             <div class="social-name">@UnderscoreGreyWolf</div>
         <a href="https://bsky.app/profile/underscoregreywolf.bsky.social">
-            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/bsky_gw.png" class="social-qr qrcode" alt="Link to BlueSky"/>
+            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/bsky_gw.png" class="social-qr qrcode" alt="Link to BlueSky"/>
         </a>
     </address>
     </li>
@@ -195,7 +195,7 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
         <div class="social-title">Fedi (@KinkyCats.org):</div>
             <div class="social-name">@_GreyWolf</div>
         <a href="https://kinkycats.org/@_GreyWolf">
-            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/fedi_gw.png" class="social-qr qrcode" alt="Link to Mastodon"/>
+            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/fedi_gw.png" class="social-qr qrcode" alt="Link to Mastodon"/>
         </a>
     </address>
     </li>
@@ -204,7 +204,7 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
         <div class="social-title">Fetlife:</div>
             <div class="social-name">_GreyWolf</div>
     <a href="https://fetlife.com/_GreyWolf">
-            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/fl_gw.png" class="social-qr qrcode" alt="Link to Fetlife"/>
+            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/fl_gw.png" class="social-qr qrcode" alt="Link to Fetlife"/>
         </a>
     </address>
     </li>
@@ -213,7 +213,7 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
         <div class="social-title">GitHub:</div>
             <div class="social-name">UnderscoreGreyWolf</div>
             <a href="https://github.com/UnderscoreGreyWolf">
-            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/gh_gw.png" class="social-qr qrcode" alt="Link to GitHub"/>
+            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/gh_gw.png" class="social-qr qrcode" alt="Link to GitHub"/>
         </a>
     </address>
     </li>
@@ -235,7 +235,7 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
         <div class="social-title">Instagram:</div>
             <div class="social-name">@Kellygreenycosplay</div>
         <a href="https://www.instagram.com/kellygreenycosplay">
-            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/ig_kg.png" class="social-qr qrcode" height=200px alt="Link to Instagram"/>
+            <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/ig_kg.png" class="social-qr qrcode" height=200px alt="Link to Instagram"/>
         </a>
     </address>
     </li>
@@ -254,7 +254,7 @@ Das wird ein schneller Crash-Kurs für euch und ihr bekommt etliche Ressourcen a
 Nachfrage ans Publikum: "Hat denn jemand Seil als Teil seines Cosplays?"
 -->
 
-<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/hojo_cover.jpg" alt="Cover eines Buchs mit einem roten Seil zum Thema 'Hojo Jutsu: Haya Nawa' mit dem Untertitel 'Das schnelle Seil in Budo und Bujutsu' von Norbert Mahl & Walter Baier" height="50%">
+<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/hojo_cover.jpg" alt="Cover eines Buchs mit einem roten Seil zum Thema 'Hojo Jutsu: Haya Nawa' mit dem Untertitel 'Das schnelle Seil in Budo und Bujutsu' von Norbert Mahl & Walter Baier" height="50%">
 
 ---
 
@@ -357,7 +357,7 @@ caution
 <!--
 Nur informierter Konsent ist Konsent!
 -->
-* Vetting: <a href="https://www.theduchy.com/vetting-a-potential-rope-partner/">www.theduchy.com/vetting-a-potential-rope-partner/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/duchy_vetting.png" alt="QR Code" class="qrcode"></a>
+* Vetting: <a href="https://www.theduchy.com/vetting-a-potential-rope-partner/">www.theduchy.com/vetting-a-potential-rope-partner/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/duchy_vetting.png" alt="QR Code" class="qrcode"></a>
 <!--
 Vetting: Evaluieren von Bondage-"Partnern"
 - Nach Leuten fragen, die bereits mit der Person gefesselt haben
@@ -407,10 +407,10 @@ Allgemein helfen Checklists dabei Punkte nicht zu vergessen
 Beispiele:
 <ul>
 <li>
-<a href="https://www.theduchy.com/general-negotiation-and-planning/">www.theduchy.com/general-negotiation-and-planning/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/duchy_negotiation.png" alt="QR Code" class="qrcode"></a>
+<a href="https://www.theduchy.com/general-negotiation-and-planning/">www.theduchy.com/general-negotiation-and-planning/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/duchy_negotiation.png" alt="QR Code" class="qrcode"></a>
 </li>
 <li>
-<a href="https://www.theduchy.com/negotiation-forms/">www.theduchy.com/negotiation-forms/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/duchy_negotiation_forms.png" alt="QR Code" class="qrcode"></a>
+<a href="https://www.theduchy.com/negotiation-forms/">www.theduchy.com/negotiation-forms/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/duchy_negotiation_forms.png" alt="QR Code" class="qrcode"></a>
 </li>
 </ul>
 
@@ -418,9 +418,9 @@ Beispiele:
 
 ## Safety
 
-<a href="https://www.theduchy.com/risks-when-using-rope/">www.theduchy.com/risks-when-using-rope/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/duchy_risks.png" alt="QR Code" class="qrcode"></a>
+<a href="https://www.theduchy.com/risks-when-using-rope/">www.theduchy.com/risks-when-using-rope/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/duchy_risks.png" alt="QR Code" class="qrcode"></a>
 
-Siehe auch <a href="https://www.selfsuspend.com/safety">www.selfsuspend.com/safety<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/selfsuspend_safety.png" class="qrcode" alt="QR Code"></a>
+Siehe auch <a href="https://www.selfsuspend.com/safety">www.selfsuspend.com/safety<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/selfsuspend_safety.png" class="qrcode" alt="QR Code"></a>
 <!--
 Self-Bondage nie alleine machen, immer einen Spotter haben
 -->
@@ -445,8 +445,8 @@ Tests:
 Mehr dazu findet ihr zum Beispiel hier:
 
 * Anatomy for Rope Bondage  <a href="https://www.youtube.com/watch?v=u9-VzX9_pzg">
-www.youtube.com/watch?v=u9-VzX9_pzg  <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/yt_anatomy.png" alt="QR Code" class="qrcode"/></a>
-* <a href="https://www.theduchy.com/nerves-and-circulation/">www.theduchy.com/nerves-and-circulation/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/duchy_nerves.png" alt="QR Code" class="qrcode"></a>
+www.youtube.com/watch?v=u9-VzX9_pzg  <img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/yt_anatomy.png" alt="QR Code" class="qrcode"/></a>
+* <a href="https://www.theduchy.com/nerves-and-circulation/">www.theduchy.com/nerves-and-circulation/<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/duchy_nerves.png" alt="QR Code" class="qrcode"></a>
 
 ---
 
@@ -588,13 +588,13 @@ Seilführung hinter dem Rücken ist bei Self-Bondage tricky!
 
 * Suspensions sehen beeindruckend aus, aber sind auch sehr riskant
     * Shay Tiziano
-        - <a href="https://www.selfsuspend.com">www.selfsuspend.com<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/selfsuspend.png" alt="QR Code" class="qrcode"/></a>
+        - <a href="https://www.selfsuspend.com">www.selfsuspend.com<img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/selfsuspend.png" alt="QR Code" class="qrcode"/></a>
         - Tying and Flying: Bondage for self-suspension, ISBN: 978-0578566405
     <!--
     Self-Suspension + Kamera/Spotter ist aber eine legitime Kombination
     Referenz auf Shay Tiziano
     -->
-    * TheDuchy(R) <a href="https://www.theduchy.com/"><img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/2025_Vortrag_Connichi/refs/heads/main/img/theduchy.png" class="qrcode" alt="QR Code"/></a>
+    * TheDuchy(R) <a href="https://www.theduchy.com/"><img src="https://raw.githubusercontent.com/UnderscoreGreyWolf/Talk-BondageForCosplay/refs/heads/main/img/theduchy.png" class="qrcode" alt="QR Code"/></a>
 
 
 ---
